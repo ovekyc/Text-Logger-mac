@@ -13,7 +13,7 @@ Tested only for English
 ## Install
 
 1. Open Automator
-2. Choose service
+2. Menu > File > New > Choose service
 3. Search for the Run Javascript action, and add it to your Service
 4. Paste script in this repo & set path of log file
 5. Save service
