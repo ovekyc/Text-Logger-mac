@@ -1,12 +1,12 @@
 var app = Application.currentApplication();
 app.includeStandardAdditions = true;
 
-function run(input, parameters) {
+function run (input, parameters) {
   var content = input[0];
   writeTextToFile(content);
 }
 
-function writeTextToFile(text, file = '/log-file-path/log-file-name.txt', overwriteExistingContent = false) {
+function writeTextToFile (text, file = '/log-file-path/log-file-name.txt', overwriteExistingContent = false) {
   text += '\n ';
   try {
     var fileString = file.toString();
