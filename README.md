@@ -19,4 +19,4 @@ Tested only for English
 5. Save service
 6. Open the Keyboard preferences of the System Preferences pane
 7. Select Shortcuts tab and find the service
-8. Bind shortcut which you want. (Recommand Control + Command + Letter)
+8. Bind shortcut what you want (Recommand Control + Command + Letter)
