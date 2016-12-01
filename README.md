@@ -4,6 +4,10 @@ Save selected text with shortcut in mac
 
 Tested only for English
 
+## Note about OS requires
+
+OS X 10.10 or higher is required.
+
 ## How to use it
 
 * Select text what you want to save
