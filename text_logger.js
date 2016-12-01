@@ -6,7 +6,9 @@ function run (input, parameters) {
   writeTextToFile(content);
 }
 
-function writeTextToFile (text, file = '/log-file-path/log-file-name.txt', overwriteExistingContent = false) {
+function writeTextToFile (text) {
+  var file = '/log-file-path/log-file-name.txt';
+  var overwriteExistingContent = false
   text += '\n ';
   try {
     var fileString = file.toString();
