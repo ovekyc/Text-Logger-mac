@@ -1,3 +1,5 @@
+# This repo is no more maintained. Check out [Text-Logger](https://github.com/yx3/text-Logger)
+
 # Text Logger for mac
 
 Save selected text with shortcut in mac
